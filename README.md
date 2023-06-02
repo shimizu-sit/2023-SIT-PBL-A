@@ -10,3 +10,4 @@
 - 簡略化バージョンのSampleProjectをアップ
 - README.mdを作成
 - ``Bumper.cs`` の ``void OnCollisionEnter`` をスペルミス修正
+- Windowsでの動作確認
